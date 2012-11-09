@@ -36,5 +36,9 @@
   {"name": "rails", "source_code_uri": "https://github.com/rails/rails"},
   {"name": "rake", "source_code_uri": "https://github.com/jimweirich/rake"},
   {"name": "uuidtools", "source_code_uri": "https://github.com/sporkmonger/uuidtools"},
-  {"name": "tzinfo", "source_code_uri": "https://github.com/osheroff/tzinfo"}
+  {"name": "tzinfo", "source_code_uri": "https://github.com/osheroff/tzinfo"},
+  {"name": "simplecov", "source_code_uri": "https://github.com/colszowka/simplecov"},
+  {"name": "rvm", "source_code_uri": "https://github.com/wayneeseguin/rvm"},
+  {"name": "resque", "source_code_uri": "https://github.com/defunkt/resque"},
+  {"name": "rails_best_practices", "source_code_uri": "https://github.com/railsbp/rails_best_practices"}
 ]
