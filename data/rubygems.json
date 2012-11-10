@@ -30,5 +30,6 @@
   {"name": "simplecov", "source_code_uri": "https://github.com/colszowka/simplecov"},
   {"name": "rvm", "source_code_uri": "https://github.com/wayneeseguin/rvm"},
   {"name": "resque", "source_code_uri": "https://github.com/defunkt/resque"},
-  {"name": "rails_best_practices", "source_code_uri": "https://github.com/railsbp/rails_best_practices"}
+  {"name": "rails_best_practices", "source_code_uri": "https://github.com/railsbp/rails_best_practices"},
+  {"name": "httparty", "source_code_uri": "https://github.com/jnunemaker/httparty"}
 ]
